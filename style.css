@@ -1,0 +1,21 @@
+body {
+    background-color: blue;
+}
+
+h1 {
+    color: white;
+    
+}
+
+table, tr, th, td {
+    border: 1px solid green;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+h2 {
+    text-align: center;
+}
